@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shruti-tiwari-X
-- 👀 I’m interested in Machine Learning and cloud computing
-- 🌱 I’m currently learning Game Development
+- 👀 I’m interested in Java, Microservices, Rest-API
+- 🌱 I’m currently working as a software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
